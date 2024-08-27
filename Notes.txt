@@ -1,0 +1,21 @@
+
+
+mkdir - create new folder
+cd - move to folder directory
+code . - to open visual studio
+rnfes - new page on js
+// - comment
+ImageBackground
+ <Image source={require ("./assets/Nacos.jpg")} />
+
+ create-react-native-app
+
+npx expo install expo-dev-client - on terminal after opening Vs code
+
+margin affects outside
+padding affects inside
+
+ALT + SHIFT + F = Auto beautify code.z
+
+justifyContent: "center", -- This  makes the text center following rows horizontal
+highlighContent: "Center". -- This makes the text center follwowing column (vertical) 
